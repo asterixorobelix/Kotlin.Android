@@ -10,5 +10,5 @@
 ## Gotchas
 
 ### var vs val
-    var is a general variable, which is mutable can be assigned to multiple times. Whereas val is a constant variable (immutable) and can be initialized only once.
+    var is a general variable, which is mutable and can be assigned to multiple times. Whereas val is a constant variable (immutable) and can be initialized only once.
 
