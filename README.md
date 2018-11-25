@@ -15,6 +15,9 @@
 * https://exercism.io/
 * https://www.one-tab.com/page/YsI_WVfySjmfgN40eprpQg
 
+## udacity
+* https://classroom.udacity.com/courses/ud9012
+
 ## Apps
 
 ### Dice roller
