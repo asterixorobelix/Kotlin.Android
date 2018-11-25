@@ -1,5 +1,6 @@
 package com.example.dell.diceroller
 
+import android.media.Image
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
@@ -7,6 +8,8 @@ import android.widget.ImageView
 import java.util.*
 
 class DiceRoller : AppCompatActivity() {
+
+    lateinit var diceImage: ImageView
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -18,6 +21,8 @@ class DiceRoller : AppCompatActivity() {
         {
             rollDice()
         }
+
+        diceImage = findViewById(R.id.roll_result)
     }
 
     private fun rollDice()
@@ -35,8 +40,6 @@ class DiceRoller : AppCompatActivity() {
                 R.drawable.dice_6
             }
         }
-        val diceImage: ImageView = findViewById(R.id.roll_result)
-
         diceImage.setImageResource(drawableResource)
     }
 }
