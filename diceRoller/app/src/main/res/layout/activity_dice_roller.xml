@@ -7,13 +7,12 @@
 			  android:layout_gravity="center_vertical"
               tools:context=".DiceRoller">
 
-<TextView
+<ImageView
 		android:id="@+id/roll_result"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/_1"
 		android:layout_gravity="center_horizontal"
-		android:textSize="30sp"/>
+		android:src="@drawable/dice_1"/>
 	
 	<Button
 			android:id="@+id/roll_button"
