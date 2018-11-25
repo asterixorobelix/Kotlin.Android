@@ -18,7 +18,7 @@
 ## Apps
 
 ### Dice roller
-![roll gif](https://drive.google.com/uc?export=view&id=1CcVJMgxq4UOKCtPhRmSIs8t-0BS7vS-l | width=40%)
+<img src="https://drive.google.com/uc?export=view&id=1CcVJMgxq4UOKCtPhRmSIs8t-0BS7vS-l" width="20%" height="40%">
 
 ## Gotchas
 
