@@ -18,7 +18,7 @@
 ## Apps
 
 ### Dice roller
-![Meme](https://drive.google.com/uc?export=view&id=1CcVJMgxq4UOKCtPhRmSIs8t-0BS7vS-l)
+![Meme| 20%](https://drive.google.com/uc?export=view&id=1CcVJMgxq4UOKCtPhRmSIs8t-0BS7vS-l)
 
 ## Gotchas
 
