@@ -4,7 +4,6 @@ import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import android.widget.ImageView
-import android.widget.TextView
 import java.util.*
 
 class DiceRoller : AppCompatActivity() {
@@ -14,7 +13,7 @@ class DiceRoller : AppCompatActivity() {
         setContentView(R.layout.activity_dice_roller)
 
         val rollButton: Button = this.findViewById(R.id.roll_button)
-        rollButton.text="Lets roll!"
+        rollButton.text=getString(R.string._lets_roll)
         rollButton.setOnClickListener()
         {
             rollDice()

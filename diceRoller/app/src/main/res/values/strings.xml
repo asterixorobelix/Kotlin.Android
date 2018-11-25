@@ -2,4 +2,5 @@
     <string name="app_name">diceRoller</string>
 	<string name="_1">1</string>
 	<string name="roll">Roll</string>
+	<string name="_lets_roll">Lets roll!</string>
 </resources>
