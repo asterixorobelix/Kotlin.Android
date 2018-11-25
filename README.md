@@ -15,6 +15,11 @@
 * https://exercism.io/
 * https://www.one-tab.com/page/YsI_WVfySjmfgN40eprpQg
 
+## Apps
+
+### Dice roller
+![Meme](https://drive.google.com/uc?export=view&id=1CcVJMgxq4UOKCtPhRmSIs8t-0BS7vS-l)
+
 ## Gotchas
 
 ### var vs val
