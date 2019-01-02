@@ -16,6 +16,7 @@
 * https://www.one-tab.com/page/YsI_WVfySjmfgN40eprpQg
 
 ## Productivity
+https://developer.android.com/studio/intro/keyboard-shortcuts - keyboard shortcuts
 https://plugins.jetbrains.com/plugin/9792-key-promoter-x
 https://plugins.jetbrains.com/plugin/7275-codeglance
 https://plugins.jetbrains.com/plugin/10080-rainbow-brackets
