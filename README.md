@@ -15,6 +15,13 @@
 * https://exercism.io/
 * https://www.one-tab.com/page/YsI_WVfySjmfgN40eprpQg
 
+## Productivity
+https://plugins.jetbrains.com/plugin/9792-key-promoter-x
+https://plugins.jetbrains.com/plugin/7275-codeglance
+https://plugins.jetbrains.com/plugin/10080-rainbow-brackets
+https://angrynerds.pl/blog/top-12-plugins-for-android-studio/
+https://blog.aritraroy.in/30-kickass-tools-to-develop-android-apps-like-a-pro-191e52b9419b
+
 ## udacity
 * https://classroom.udacity.com/courses/ud9012
 
