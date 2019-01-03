@@ -8,9 +8,9 @@
 * https://developer.android.com/jetpack/arch/
 * https://developer.android.com/topic/libraries/architecture/
 * https://developer.android.com/jetpack/docs/getting-started
-https://developer.android.com/guide/components/fundamentals
-https://developer.android.com/training/basics/firstapp/
-https://developer.android.com/jetpack/docs/getting-started
+* https://developer.android.com/guide/components/fundamentals
+* https://developer.android.com/training/basics/firstapp/
+* https://developer.android.com/jetpack/docs/getting-started
 * https://codelabs.developers.google.com/?cat=Android
 
 ## Reading matter
