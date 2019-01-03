@@ -3,7 +3,7 @@
 ![Meme](https://cdn-images-1.medium.com/max/1600/0*fg_6c7tcoexdgSng.jpg)
 
 ## Android recommended architecture
-![Android Architecture] (https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
+![Android Architecture](https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
 https://developer.android.com/jetpack/docs/guide
 
 ## Reading matter
