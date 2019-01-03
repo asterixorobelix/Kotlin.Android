@@ -7,10 +7,11 @@
 * https://developer.android.com/jetpack/docs/guide
 * https://developer.android.com/jetpack/arch/
 * https://developer.android.com/topic/libraries/architecture/
-* https://developer.android.com/jetpack/docs/getting-started
+* https://developer.android.com/jetpack/docs/getting-started - incomplete documentation
+* https://github.com/googlesamples/android-sunflower - alpha release, still in development
+* https://github.com/googlesamples/android-architecture-components/blob/master/README.md
 * https://developer.android.com/guide/components/fundamentals
 * https://developer.android.com/training/basics/firstapp/
-* https://developer.android.com/jetpack/docs/getting-started
 * https://codelabs.developers.google.com/?cat=Android
 
 ## Reading matter
