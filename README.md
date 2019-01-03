@@ -2,6 +2,10 @@
 
 ![Meme](https://cdn-images-1.medium.com/max/1600/0*fg_6c7tcoexdgSng.jpg)
 
+## Android recommended architecture
+![Android Architecture] (https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
+https://developer.android.com/jetpack/docs/guide
+
 ## Reading matter
 * https://hadihariri.com/2014/01/06/intellij-idea-minimal-survival-guide/
 * https://hadihariri.com/2013/12/29/jvm-minimal-survival-guide-for-the-dotnet-developer/
@@ -16,12 +20,12 @@
 * https://www.one-tab.com/page/YsI_WVfySjmfgN40eprpQg
 
 ## Productivity
-https://developer.android.com/studio/intro/keyboard-shortcuts - keyboard shortcuts
-https://plugins.jetbrains.com/plugin/9792-key-promoter-x
-https://plugins.jetbrains.com/plugin/7275-codeglance
-https://plugins.jetbrains.com/plugin/10080-rainbow-brackets
-https://angrynerds.pl/blog/top-12-plugins-for-android-studio/
-https://blog.aritraroy.in/30-kickass-tools-to-develop-android-apps-like-a-pro-191e52b9419b
+* https://developer.android.com/studio/intro/keyboard-shortcuts - keyboard shortcuts
+* https://plugins.jetbrains.com/plugin/9792-key-promoter-x
+* https://plugins.jetbrains.com/plugin/7275-codeglance
+* https://plugins.jetbrains.com/plugin/10080-rainbow-brackets
+* https://angrynerds.pl/blog/top-12-plugins-for-android-studio/
+* https://blog.aritraroy.in/30-kickass-tools-to-develop-android-apps-like-a-pro-191e52b9419b
 
 ## udacity
 * https://classroom.udacity.com/courses/ud9012
