@@ -4,7 +4,11 @@
 
 ## Android recommended architecture
 ![Android Architecture](https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
-https://developer.android.com/jetpack/docs/guide
+* https://developer.android.com/jetpack/docs/guide
+* https://developer.android.com/jetpack/arch/
+* https://developer.android.com/topic/libraries/architecture/
+* https://developer.android.com/jetpack/docs/getting-started
+* https://codelabs.developers.google.com/?cat=Android
 
 ## Reading matter
 * https://www.one-tab.com/page/TDfNLqRPSLu9G6Z_M4Pp5w
