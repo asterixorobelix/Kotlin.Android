@@ -7,6 +7,7 @@
 https://developer.android.com/jetpack/docs/guide
 
 ## Reading matter
+* https://www.one-tab.com/page/TDfNLqRPSLu9G6Z_M4Pp5w
 * https://hadihariri.com/2014/01/06/intellij-idea-minimal-survival-guide/
 * https://hadihariri.com/2013/12/29/jvm-minimal-survival-guide-for-the-dotnet-developer/
 * https://kotlinlang.org/docs/reference/basic-syntax.html
