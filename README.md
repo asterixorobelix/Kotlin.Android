@@ -8,11 +8,14 @@
 * https://developer.android.com/jetpack/arch/
 * https://developer.android.com/topic/libraries/architecture/
 * https://developer.android.com/jetpack/docs/getting-started - incomplete documentation
-* https://github.com/googlesamples/android-sunflower - alpha release, still in development
+* [Sunflower app](https://github.com/googlesamples/android-sunflower) - alpha release, still in development
 * https://github.com/googlesamples/android-architecture-components/blob/master/README.md
 * https://developer.android.com/guide/components/fundamentals
 * https://developer.android.com/training/basics/firstapp/
 * https://codelabs.developers.google.com/?cat=Android
+* https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin/#0
+* [The Google I/O 2018 Android App ](https://github.com/google/iosched)
+* [Kotlin android samples](https://developer.android.com/samples/?language=kotlin)
 
 ## Reading matter
 * https://www.one-tab.com/page/TDfNLqRPSLu9G6Z_M4Pp5w
@@ -29,10 +32,10 @@
 * https://www.one-tab.com/page/YsI_WVfySjmfgN40eprpQg
 
 ## Productivity
-* https://developer.android.com/studio/intro/keyboard-shortcuts - keyboard shortcuts
+* [keyboard shortcuts](https://developer.android.com/studio/intro/keyboard-shortcuts)
 * https://plugins.jetbrains.com/plugin/9792-key-promoter-x
 * https://plugins.jetbrains.com/plugin/7275-codeglance
-* https://plugins.jetbrains.com/plugin/10080-rainbow-brackets
+* [Rainbow brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
 * https://angrynerds.pl/blog/top-12-plugins-for-android-studio/
 * https://blog.aritraroy.in/30-kickass-tools-to-develop-android-apps-like-a-pro-191e52b9419b
 
