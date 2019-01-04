@@ -41,9 +41,9 @@
 
 ## Apps
 
-* Dice roller
-* About me
-* Color my views
+* [Dice roller](https://github.com/asterixorobelix/Kotlin.Android/tree/master/udacity/DevelopingAndroidAppswithKotlin/diceRoller)
+* [About me](https://github.com/asterixorobelix/Kotlin.Android/tree/master/udacity/DevelopingAndroidAppswithKotlin/AboutMe)
+* [Color my views](https://github.com/asterixorobelix/Kotlin.Android/tree/master/udacity/DevelopingAndroidAppswithKotlin/ColorMyViews)
 
 
 ## Gotchas
