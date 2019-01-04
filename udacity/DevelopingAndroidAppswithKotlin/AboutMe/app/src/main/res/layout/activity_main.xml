@@ -24,7 +24,7 @@
                 android:text="@string/bio"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" android:id="@+id/bio_text" style="@style/NameStyle"
-                android:lineSpacingMultiplier="1.2"
+                android:lineSpacingMultiplier="@integer/line_spacing_multiplier"
                 android:paddingStart="@dimen/padding" android:paddingEnd="@dimen/padding"/>
     </ScrollView>
 </LinearLayout>
