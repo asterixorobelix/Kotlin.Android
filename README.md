@@ -47,7 +47,11 @@
 ## Gotchas
 
 ### var vs val
-    var is a general variable, which is mutable and can be assigned to multiple times. Whereas val is a constant variable (immutable) and can be initialized only once.
+    var can be assigned to multiple times, whereas val can be initialized or assigned to only once.
+    
+### Packages
+Packages group related classes. Packages are declared with the package keyword, and any Kotlin file with a package declaration at the beginning can contain declarations of classes, functions, or interfaces. 
+(Equivalent of C# namespaces)
     
 ## Command line compilation
 ![Command line without bothering about path variables](https://drive.google.com/uc?export=view&id=1447LFz3pLuU9s5dG1kTVjU97a6EJG6Sg)
