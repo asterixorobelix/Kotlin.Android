@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <integer name="line_spacing_multiplier">1.2</integer>
+    <integer name="line_spacing_multiplier">2</integer>
 </resources>
