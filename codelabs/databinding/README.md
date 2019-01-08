@@ -1,5 +1,5 @@
 Android Data Binding Codelab
 =============================================
 
-[codelab]https://github.com/googlecodelabs/android-databinding
+[codelab](https://github.com/googlecodelabs/android-databinding)
 
