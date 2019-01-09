@@ -53,6 +53,8 @@
 
 ### var vs val
     var can be assigned to multiple times, whereas val can be initialized or assigned to only once.
+### [Databinding](https://developer.android.com/topic/libraries/data-binding/two-way)
+    The @={} notation, which importantly includes the "=" sign, receives data changes to the property and listen to user updates at the same time.
     
 ### Packages
 Packages group related classes. Packages are declared with the package keyword, and any Kotlin file with a package declaration at the beginning can contain declarations of classes, functions, or interfaces. 
