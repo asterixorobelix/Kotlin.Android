@@ -56,6 +56,28 @@
 ### [Databinding](https://developer.android.com/topic/libraries/data-binding/two-way)
     The @={} notation, which importantly includes the "=" sign, receives data changes to the property and listen to user updates at the same time.
     
+If you create a binding adapter for a LiveData property in your viewModel, you do not need to give the binding adapter the LiveData type, just the inner type. Eg:
+
+Fragment
+```
+@BindingAdapter(value =["searchResults"])
+fun setArchiveTextVisibility(textView: TextView, searchResults: PagedList<StorySummary>?){
+    textView.visibility = if(searchResults.isNullOrEmpty()) View.VISIBLE else View.GONE
+}
+```
+
+Viewmodel
+```
+val searchResults: LiveData<PagedList<StorySummary>>
+```
+
+fragment_search.xml
+```
+<TextView
+    app:searchResults="@{viewModel.searchResults}"
+    />
+```
+    
 ### Packages
 Packages group related classes. Packages are declared with the package keyword, and any Kotlin file with a package declaration at the beginning can contain declarations of classes, functions, or interfaces. 
 (Equivalent of C# namespaces)
