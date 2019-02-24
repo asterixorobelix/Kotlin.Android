@@ -3,7 +3,16 @@
 ![Meme](https://cdn-images-1.medium.com/max/1600/0*fg_6c7tcoexdgSng.jpg)
 
 ## Android recommended architecture
+
 ![Android Architecture](https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
+
+### NB
+* https://developer.android.com/jetpack/docs/guide
+* https://developer.android.com/topic/libraries/architecture/livedata
+* https://github.com/googlesamples/android-architecture-components/blob/88747993139224a4bb6dbe985adf652d557de621/GithubBrowserSample/app/src/main/java/com/android/example/github/repository/NetworkBoundResource.kt
+
+### Nice to have
+
 * https://developer.android.com/jetpack/docs/guide
 * https://developer.android.com/jetpack/arch/
 * https://developer.android.com/topic/libraries/architecture/
