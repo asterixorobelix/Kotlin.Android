@@ -6,6 +6,8 @@
 
 ![Android Architecture](https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
 
+![Clean architecture](https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/architecture/clean_architecture_reloaded_main.png)
+
 ### NB
 * https://developer.android.com/jetpack/docs/guide
 * https://developer.android.com/topic/libraries/architecture/livedata
