@@ -8,6 +8,12 @@
 
 ![Clean architecture](https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/architecture/clean_architecture_reloaded_main.png)
 
+![Architecture layers](https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/architecture/clean_architecture_reloaded_layers.png)
+
+![MVVM](https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/architecture/clean_architecture_reloaded_mvvm_app.png)
+
+![Repository](https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/architecture/clean_archictecture_reloaded_repository.png)
+
 ### NB
 * https://developer.android.com/jetpack/docs/guide
 * https://developer.android.com/topic/libraries/architecture/livedata
