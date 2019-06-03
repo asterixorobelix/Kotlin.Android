@@ -15,6 +15,7 @@
 ![Repository](https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/architecture/clean_archictecture_reloaded_repository.png)
 
 ### NB
+* https://fernandocejas.com/2018/05/07/architecting-android-reloaded/
 * https://developer.android.com/jetpack/docs/guide
 * https://developer.android.com/topic/libraries/architecture/livedata
 * https://github.com/googlesamples/android-architecture-components/blob/88747993139224a4bb6dbe985adf652d557de621/GithubBrowserSample/app/src/main/java/com/android/example/github/repository/NetworkBoundResource.kt
