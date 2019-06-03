@@ -20,6 +20,8 @@
 * https://developer.android.com/topic/libraries/architecture/livedata
 * https://github.com/googlesamples/android-architecture-components/blob/88747993139224a4bb6dbe985adf652d557de621/GithubBrowserSample/app/src/main/java/com/android/example/github/repository/NetworkBoundResource.kt
 
+Independence of UI and datasource (database or api)
+
 ### Nice to have
 
 * https://developer.android.com/jetpack/docs/guide
