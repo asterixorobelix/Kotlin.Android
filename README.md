@@ -39,6 +39,9 @@ Independence of UI and datasource (database or api)
 * [Kotlin android samples](https://developer.android.com/samples/?language=kotlin)
 
 ## Reading matter
+* https://www.one-tab.com/page/EyqDriw0SOWodYBh2uHwCg
+* https://www.one-tab.com/page/0XCo2cWlStuNPJyq10S3zA
+* https://www.one-tab.com/page/uXFBTn6mRDG_Et0niCZ6Zg
 * https://www.one-tab.com/page/TDfNLqRPSLu9G6Z_M4Pp5w
 * https://hadihariri.com/2014/01/06/intellij-idea-minimal-survival-guide/
 * https://hadihariri.com/2013/12/29/jvm-minimal-survival-guide-for-the-dotnet-developer/
