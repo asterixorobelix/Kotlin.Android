@@ -15,6 +15,8 @@
 ![Repository](https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/architecture/clean_archictecture_reloaded_repository.png)
 
 ### NB
+* kotlin coroutines
+* LiveData
 * https://fernandocejas.com/2018/05/07/architecting-android-reloaded/
 * https://developer.android.com/jetpack/docs/guide
 * https://developer.android.com/topic/libraries/architecture/livedata
