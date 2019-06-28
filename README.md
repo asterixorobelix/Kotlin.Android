@@ -41,6 +41,29 @@ Independence of UI and datasource (database or api)
 * [Kotlin android samples](https://developer.android.com/samples/?language=kotlin)
 
 ## Reading matter
+* https://www.one-tab.com/page/dCawsLBBQEG3t9vrjTTJ0A
+* https://www.one-tab.com/page/H95FKwbQRXuEGnlZ47xgSg
+* https://www.one-tab.com/page/1NSsugqSTrWzYpGQ85smYA
+* https://www.one-tab.com/page/5fDICQdKQXKFzQCCVBrt8Q
+* https://www.one-tab.com/page/BL-Nz1K2Su-OLJn5mu6sgA
+* https://www.one-tab.com/page/XrDYZ-K9RWSYP57QLxGolg
+* https://www.one-tab.com/page/VaXML15ZSH6txb1fPt2RUQ
+* https://www.one-tab.com/page/n_dYvI8DQNGjDge_Zls_Yw
+* https://www.one-tab.com/page/uIW0uY5iQnmou0k7uqyjlw
+* https://www.one-tab.com/page/upkO43IZTiypZ-LISQPvBg
+* https://www.one-tab.com/page/QwuwcJ3GSvGlqtA-_o87LA
+* https://www.one-tab.com/page/WlLikv0-TQGm4kWvip0W7Q
+* https://www.one-tab.com/page/O0AWejSKSJuD2C_l3fYZKg
+* https://www.one-tab.com/page/4lkWty7tQa6tYAxkCx6n4g
+* https://www.one-tab.com/page/qkc0bDyzSZGKzuIvEI1_hg
+* https://www.one-tab.com/page/GnhvVXSzT72oR-ekMWLFXQ
+* https://www.one-tab.com/page/U6hjkqyNRSKUlnIz2SNuCA
+* https://www.one-tab.com/page/_-YTyq8YSbqmFtB2O8X9qA
+* https://www.one-tab.com/page/lg6c4nurQvK78rKHdDZwMQ
+* https://www.one-tab.com/page/lg6c4nurQvK78rKHdDZwMQ
+* https://www.one-tab.com/page/F1ii5GxzSTakt1ewgQSSyA
+* https://www.one-tab.com/page/kDBgJyhsQgumQI_Ak8TR4g
+* https://www.one-tab.com/page/gkr2uswHQ--6DWCO-xw84A
 * https://www.one-tab.com/page/EyqDriw0SOWodYBh2uHwCg
 * https://www.one-tab.com/page/0XCo2cWlStuNPJyq10S3zA
 * https://www.one-tab.com/page/uXFBTn6mRDG_Et0niCZ6Zg
